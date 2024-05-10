@@ -79,7 +79,7 @@ Abrir a pasta do projeto clonado no VS Code e ativar a ferramenta Go Live.
 
 <h2 id="about">📖 About</h2>
 
-This project is an cashflow application. You must create an account inserting e-mail and password, login, and insert in the system the cash inflow or outflow, from now or future transfers, with the goal of helping the user to have financial control.
+This project is a cashflow application. You must create an account inserting e-mail and password, login, and insert in the system the cash inflow or outflow, from now or future transfers, with the goal of helping the user to have financial control.
 [![project][PROJECT__BADGE]][PROJECT__URL]
 
 <h4>🔒 Important!</h4>
